@@ -4,13 +4,13 @@
 
 ## 🚗 About us
 
-[BlaBlaCar](https://blablacar.com) is the world's leading community-based travel network enabling over **27 million active members per year** to share a ride **across 21 countries**. Our technology fills empty seats on the road, connecting members looking to carpool or to travel by bus, making travel more affordable, sociable, and convenient.
+[BlaBlaCar](https://blablacar.com) is the world's leading community-based travel network enabling over **29 million active members per year** to share a ride **across 21 countries**. Our technology fills empty seats on the road, connecting members looking to carpool or to travel by bus, making travel more affordable, sociable, and convenient.
 
 [Explore our product page](https://jobs.blablacar.com/about-us-our-product-page) to see how our **250+ engineers** develop innovative solutions to the interesting challenges of shared travel. 
 
 ## 🚌 Our collective impact
 
-In 2023, our trusted community connected **2.4 million meeting points** worldwide and enabled **104 million human encounters**. Carpool drivers saved **513 million euros**, and all BlaBlaCar’s mobility services contributed to avoiding **2 million tonnes of CO2** emissions.
+In 2024, our trusted community connected **2.5 million meeting points** worldwide and enabled **120 million human encounters**. Carpool drivers saved **540 million euros**, and all BlaBlaCar’s mobility services contributed to avoiding **2.5 million tonnes of CO2** emissions.
 
 [Discover here](https://jobs.blablacar.com/our-impact) how our people-powered, carbon-saving network is revolutionizing the world of travel!
 
